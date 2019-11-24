@@ -1,6 +1,6 @@
 ---
-layout: default
 title: Ecoute d'extraits
+layout: default
 ---
 
 - Arrangements : J. Gerszanowilsz & V. Massuet

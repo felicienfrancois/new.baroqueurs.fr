@@ -1,6 +1,6 @@
 ---
-layout: default
 title: Nous contacter
+layout: default
 ---
 
 <div id="contact">

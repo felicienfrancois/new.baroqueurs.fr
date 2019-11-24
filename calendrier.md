@@ -1,6 +1,6 @@
 ---
-layout: default
 title: Calendrier des concerts
+layout: default
 ---
 
 <h1>Concerts à venir</h1>

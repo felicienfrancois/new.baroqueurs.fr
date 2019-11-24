@@ -1,6 +1,6 @@
 ---
-layout: default
 title: Accueil
+layout: default
 ---
 
 ![L'ensemble](assets/img/DSC07985_ensemble.jpg "L'emsemble")

@@ -1,37 +1,43 @@
+---
 title: Les Baroqueurs du XVIIIème
+timezone: UTC
+collections:
+  concerts:
+    title: Concerts
+    output: true
+  extraits:
+    title: Extraits
+    output: false
+  musiciens:
+    title: Musiciens
+    output: false
+  posts:
+    title: Posts
+    output: true
+  uploads:
+    title: Uploads
+    output: true
 description: Ensemble de flutiste à bec
-
 url: https://www.baroqueurs.fr
-baseurl: ""
-paginate_path: "blog/page:num/"
+baseurl: ''
+paginate_path: blog/page:num/
 permalink: blog/:title/
-
 markdown: kramdown
 highlighter: rouge
 future: true
-
 navigation:
-  - title: Accueil
-    url: /index.html
-  - title: L'Ensemble
-    url: /ensemble
-  - title: Calendrier des Concerts
-    url: /calendrier
-  - title: Extraits
-    url: /extraits
-  - title: Photos
-    url: /photos
-  - title: Contact
-    url: /contact
-
-collections:
-  musiciens:
-    output: false
-  concerts:
-    output: true
-  extraits:
-    output: false
-
+- title: Accueil
+  url: "/index.html"
+- title: L'Ensemble
+  url: "/ensemble"
+- title: Calendrier des Concerts
+  url: "/calendrier"
+- title: Extraits
+  url: "/extraits"
+- title: Photos
+  url: "/photos"
+- title: Contact
+  url: "/contact"
 social:
   facebook: consort.baroqueurs.5
   email: contact@baroqueurs.fr

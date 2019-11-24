@@ -1,6 +1,6 @@
 ---
-layout: default
 title: L'ensemble
+layout: default
 ---
 
 # L'ensemble
