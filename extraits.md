@@ -72,7 +72,7 @@ Rokyta : Balkanology
 <iframe width="560" height="315" src="https://www.youtube.com/embed/04beqZKd_f4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 Feidman : Klezmer Freilach
 
-### Emission "Le Petit Journal" (Canal+) du 25 septembre 2014</span></p>
+### Emission "Le Petit Journal" (Canal+) du 25 septembre 2014
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/ygQ0UHTOvdA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 J.-S. Bach : Badinerie & Rolling Stones : Paint it black
