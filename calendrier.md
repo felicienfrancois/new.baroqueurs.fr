@@ -9,7 +9,7 @@ title: Calendrier des concerts
   {% for post in next_concerts %}
     {% if post.date >= site.time %}
     <li>
-    	<span class="date">{{ post.date | date_to_string }}</span><br>
+    	<span class="date">{{ post.date | date: "%d/%m/%Y" }}</span><br>
     	<a href="{{ post.url }}">{{ post.title }}</a>
     	<p class="description">{{ post.address }}</p>
     </li>
