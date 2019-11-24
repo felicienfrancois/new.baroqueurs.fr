@@ -12,7 +12,7 @@ html {
 body {
 	font-family: $serif;
 	line-height: 1.75;
-	font-size: 112.5%; // 18px base font size
+	font-size: 100%; // 18px base font size
 	color: $black;
 	overflow-x: hidden;
   margin: 0;
@@ -176,10 +176,10 @@ HEADER STYLING
 ***************/
 
 .header {
+	background: linear-gradient( rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5) ), url('../img/header-background.jpg');
 	background-color: $background-color;
-	background-image: url('../img/touring.jpg');
 	background-size: cover;
-	background-position: center center;
+	background-position: center 35%;
 	color: white;
 	padding: 0;
 	height: 3em;
@@ -197,7 +197,7 @@ HEADER STYLING
 		line-height: 3em;
 		font-family: $sans-serif;
 		font-weight: 800;
-		text-transform: uppercase;
+//		text-transform: uppercase;
 
 		a {
 			color: white;
@@ -315,7 +315,7 @@ POST NAV STYLING
 		font-family: $sans-serif;
 		font-weight: 800;
 		font-size: .9em;
-		text-transform: uppercase;
+//		text-transform: uppercase;
 		text-align: center;
 
 		img {

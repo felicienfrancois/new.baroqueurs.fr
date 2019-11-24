@@ -1,28 +1,37 @@
-title: Long Haul
-description: Long Form Jekyll theme built with SASS / COMPASS / SUSY
+title: Les Baroqueurs du XVIIIème
+description: Ensemble de flutiste à bec
 
-url: http://brianmaierjr.github.com/long-haul
+url: https://www.baroqueurs.fr
 baseurl: ""
 paginate_path: "blog/page:num/"
 permalink: blog/:title/
 
 markdown: kramdown
 highlighter: rouge
-plugins: [jekyll-paginate]
-paginate: 5
+future: true
 
 navigation:
-  - title: Home
+  - title: Accueil
     url: /index.html
-  - title: About
-    url: /about
+  - title: L'Ensemble
+    url: /ensemble
+  - title: Calendrier des Concerts
+    url: /calendrier
+  - title: Extraits
+    url: /extraits
+  - title: Photos
+    url: /photos
   - title: Contact
     url: /contact
 
-social:
-  github: brianmaierjr
-  twitter: brianmaierjr
-  facebook: brianmaierjr
-  email: brimaidesigns@gmail.com
+collections:
+  musiciens:
+    output: false
+  concerts:
+    output: true
+  extraits:
+    output: false
 
-google_analytics: "UA-58263416-1"
+social:
+  facebook: consort.baroqueurs.5
+  email: contact@baroqueurs.fr

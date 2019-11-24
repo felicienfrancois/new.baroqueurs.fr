@@ -27,3 +27,11 @@
 
 // If IE support is needed you can add them here or create another stylesheet for specific IE fixes
 
+.floating-image {
+	clear: left;
+	float: left;
+	width: 200px;
+	min-height: 150px;
+	margin-right: 20px;
+	padding: 20px 0px;
+}
