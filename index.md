@@ -20,7 +20,7 @@ layout: default
     <li>
     	<span class="date">{{ post.date | date: "%d/%m/%Y" }}</span><br>
     	<a href="{{ post.url }}">{{ post.title }}</a>
-    	<p class="description">{{ post.address }}</p>
+    	<p class="description">{{ post.adresse }}</p>
     </li>
     {% endif %}
   {% endfor %}
