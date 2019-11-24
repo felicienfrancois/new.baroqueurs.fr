@@ -5,9 +5,6 @@ collections:
   concerts:
     title: Concerts
     output: true
-  extraits:
-    title: Extraits
-    output: false
   musiciens:
     title: Musiciens
     output: false
