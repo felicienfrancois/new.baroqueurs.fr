@@ -1,55 +1,55 @@
 ---
 title: Ecoute d'extraits
 layout: default
----
 
-- Arrangements : J. Gerszanowilsz & V. Massuet
-- Ingénieur du son : R. Dymny
-- Prise de vues : A. Gaillard & F. Roussignol
+---
+* Arrangements : J. Gerszanowilsz & V. Massuet
+* Ingénieur du son : R. Dymny
+* Prise de vues : A. Gaillard & F. Roussignol
 
 ### Concert du 6 octobre 2019, Église Saint-Valéry, Toeufles (Somme)
 
-<audio controls src="/assets/audio/2019_Bach_Chaconne.mp3"></audio>
+<audio controls src="/uploads/2019_Bach_Chaconne.mp3_></a_udio>
 Bach : Partita n°2 - Chaconne (extraits)
 
-<audio controls src="/assets/audio/2019_Mozart_LaFluteEnchantee.mp3"></audio>
+<audio controls src="/uploads/2019_Mozart_LaFluteEnchantee.mp3"></audio>
 Mozart : La Flûte Enchantée - Ouverture (extraits)
 
-<audio controls src="/assets/audio/2019_Mozart_VorreiSpiegarviOhDio.mp3"></audio>
+<audio controls src="/uploads/2019_Mozart_VorreiSpiegarviOhDio.mp3"></audio>
 Mozart : "Vorrei spiegarvi, oh Dio !", avec Angéline Le Ray
 
-<audio controls src="/assets/audio/2019_Mozart_K178.mp3"></audio>
+<audio controls src="/uploads/2019_Mozart_K178.mp3"></audio>
 Mozart : "Ah ! spiegarti, oh Dio", avec Angéline Le Ray
 
 ### Concert du 17 juin 2018, Église Notre Dame des Foyers, Paris 19e
 
-<audio controls src="/assets/audio/2018_CanSheExcuse.mp3"></audio>
+<audio controls src="/uploads/2018_CanSheExcuse.mp3"></audio>
 Dowland : "Can she excuse", avec Laure Lalo
 
-<audio controls src="/assets/audio/2018_Ciaconna.mp3"></audio>
+<audio controls src="/uploads/2018_Ciaconna.mp3"></audio>
 Ciaconna : Variations
 
-<audio controls src="/assets/audio/2018_QuatuorMozart.mp3"></audio>
+<audio controls src="/uploads/2018_QuatuorMozart.mp3"></audio>
 Mozart : Quatuor pour hautbois
 
-<audio controls src="/assets/audio/2018_Irlandais.mp3"></audio>
+<audio controls src="/uploads/2018_Irlandais.mp3"></audio>
 Musique Irlandaise : Airs traditionnels
 
-<audio controls src="/assets/audio/2018_LekhoNeraneno.mp3"></audio>
+<audio controls src="/uploads/2018_LekhoNeraneno.mp3"></audio>
 Dobrinescu : Lekho neraneno
 
 ### Concert du 30 juillet 2017, Église de Saint-Hilaire-la-Croix, Puy-de-Dôme
 
-<audio controls src="/assets/audio/2017_Corelli.mp3"></audio>
+<audio controls src="/uploads/2017_Corelli.mp3"></audio>
 Corelli : Sonate Opus 3 n°6 (1er mouvement - vivace)
 
-<audio controls src="/assets/audio/2017_Aladin.mp3"></audio>
+<audio controls src="/uploads/2017_Aladin.mp3"></audio>
 Musique Klezmer : Freylekh & Khosidl (medley)
 
-<audio controls src="/assets/audio/2017_Freylekhs.mp3"></audio>
+<audio controls src="/uploads/2017_Freylekhs.mp3"></audio>
 Musique Klezmer : Freylekhs (medley)
 
-<audio controls src="/assets/audio/2017_MazelTov.mp3"></audio>
+<audio controls src="/uploads/2017_MazelTov.mp3"></audio>
 Musique Klezmer : Mazel Tov (medley)
 
 ### Concert du 17 juin 2016, Église Notre Dame des Foyers, Paris 19e
@@ -79,12 +79,12 @@ J.-S. Bach : Badinerie & Rolling Stones : Paint it black
 
 ### Enregistrement 2014
 
-<audio controls src="/assets/audio/2014_Bach.mp3"></audio>
+<audio controls src="/uploads/2014_Bach.mp3"></audio>
 Bach : Concerto Brandebourgeois n°3 (1er mouvement - allegro)
 
 ### Enregistrement 2011
 
-<audio controls src="/assets/audio/2011_Yerushalaim.mp3"></audio>
+<audio controls src="/uploads/2011_Yerushalaim.mp3"></audio>
 Chanson Israélienne : Yerushalaim Shel Zahav
 
 ### Concert du 20 novembre 2010, Bibliothèque Saint Eloi, Paris 12e
