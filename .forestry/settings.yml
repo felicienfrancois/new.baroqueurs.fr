@@ -13,9 +13,11 @@ sections:
   create: all
   match: "**/*"
 - type: jekyll-posts
-  label: Posts
+  label: Actualités
   create: all
   match: "**/*"
+  templates:
+  - actualite
 - type: directory
   path: _musiciens
   label: Musiciens
