@@ -13,7 +13,7 @@ menu:
 
 ### Concert du 6 octobre 2019, Église Saint-Valéry, Toeufles (Somme)
 
-<audio controls src="/uploads/2019_Bach_Chaconne.mp3_></a_udio>
+<audio controls src="/uploads/2019_Bach_Chaconne.mp3"></audio>
 Bach : Partita n°2 - Chaconne (extraits)
 
 <audio controls src="/uploads/2019_Mozart_LaFluteEnchantee.mp3"></audio>
