@@ -9,20 +9,9 @@ sections:
   create: all
   templates:
   - page
-- type: directory
-  path: assets/img
-  label: Images
-  create: all
-  match: "**/*"
-- type: directory
-  path: assets/audio
-  label: Extraits Audio
-  create: all
-  match: "**/*"
 - type: jekyll-posts
   label: Actualités
   create: all
-  match: "**/*"
   templates:
   - actualite
 - type: directory
