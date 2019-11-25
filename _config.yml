@@ -22,19 +22,6 @@ permalink: blog/:title/
 markdown: kramdown
 highlighter: rouge
 future: true
-navigation:
-- title: Accueil
-  url: "/index.html"
-- title: L'Ensemble
-  url: "/ensemble"
-- title: Calendrier des Concerts
-  url: "/calendrier"
-- title: Extraits
-  url: "/extraits"
-- title: Photos
-  url: "/photos"
-- title: Contact
-  url: "/contact"
 social:
   facebook: consort.baroqueurs.5
   email: contact@baroqueurs.fr
