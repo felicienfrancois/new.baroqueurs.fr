@@ -1,6 +1,6 @@
 ---
 title: Les Baroqueurs du XVIIIème
-timezone: UTC
+timezone: Europe/Paris
 collections:
   concerts:
     title: Concerts
@@ -16,7 +16,7 @@ collections:
     output: true
 description: Ensemble de flutiste à bec
 url: https://www.baroqueurs.fr
-baseurl: ''
+baseurl: 
 paginate_path: blog/page:num/
 permalink: blog/:title/
 markdown: kramdown
