@@ -38,3 +38,5 @@ navigation:
 social:
   facebook: consort.baroqueurs.5
   email: contact@baroqueurs.fr
+plugins:
+- jekyll-menus
