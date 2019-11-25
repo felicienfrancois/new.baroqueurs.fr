@@ -1,10 +1,6 @@
 ---
 title: Nous contacter
 layout: default
-menu:
-  header:
-    title: Contact
-    weight: 6
 
 ---
 <div id="contact"> <h1 class="pageTitle">Nous contacter</h1> <div class="contactContent"> <img src="/uploads/DSC07965_contact.jpg" /> </div> <form action="https://formspree.io/contact@baroqueurs.fr" method="POST"> <p>Pour suivre l'actualité de l'ensemble et recevoir des notifications avant chaque concert, rejoignez<br><a href="htt_s://www.facebook.com/{{ site.social.facebook }}" target="_blank">les Baroqueurs du XVIIIème sur Facebook</a></p>

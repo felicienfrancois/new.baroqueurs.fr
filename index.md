@@ -1,9 +1,6 @@
 ---
 title: Accueil
 layout: default
-menu:
-  header:
-    weight: 1
 
 ---
 ![L'ensemble](/uploads/DSC07985_ensemble.jpg "L'emsemble")

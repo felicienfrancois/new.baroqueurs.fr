@@ -1,10 +1,6 @@
 ---
 title: Ecoute d'extraits
 layout: default
-menu:
-  header:
-    title: Extraits
-    weight: 4
 
 ---
 * Arrangements : J. Gerszanowilsz & V. Massuet
