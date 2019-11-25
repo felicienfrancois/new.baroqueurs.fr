@@ -19,13 +19,17 @@ sections:
 - type: directory
   path: _musiciens
   label: Musiciens
-  create: all
+  create: documents
   match: "**/*"
+  templates:
+  - musicien
 - type: directory
   path: _concerts
   label: Concerts
-  create: all
+  create: documents
   match: "**/*"
+  templates:
+  - concert
 upload_dir: uploads
 public_path: "/uploads"
 front_matter_path: ''
