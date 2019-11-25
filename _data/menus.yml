@@ -1,20 +1,20 @@
 ---
 header:
-- title: Contact
-  weight: 6
-  url: "/contact"
-- title: Photos
-  weight: 5
-  url: "/photos"
-- title: Extraits
-  weight: 4
-  url: "/extraits"
-- title: Calendrier des Concerts
-  weight: 3
-  url: "/concerts"
-- title: L'Ensemble
-  weight: 2
-  url: "/ensemble"
 - weight: 1
   url: "/"
   title: Accueil
+- title: L'Ensemble
+  weight: 2
+  url: "/ensemble"
+- title: Calendrier des Concerts
+  weight: 3
+  url: "/calendrier"
+- title: Extraits
+  weight: 4
+  url: "/extraits"
+- title: Photos
+  weight: 5
+  url: "/photos"
+- title: Contact
+  weight: 6
+  url: "/contact"
