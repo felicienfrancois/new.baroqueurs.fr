@@ -1,8 +1,12 @@
 ---
 title: Calendrier des concerts
 layout: default
----
+menu:
+  header:
+    title: Calendrier des Concerts
+    weight: 3
 
+---
 <h1>Concerts à venir</h1>
 <ul class="posts noList">
   {% assign next_concerts = site.concerts | reverse  %}

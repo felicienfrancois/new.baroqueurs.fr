@@ -1,8 +1,12 @@
 ---
 title: L'ensemble
 layout: default
----
+menu:
+  header:
+    title: L'Ensemble
+    weight: 2
 
+---
 # L'ensemble
 
 

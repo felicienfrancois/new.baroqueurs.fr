@@ -1,13 +1,1 @@
-header:
-- url: "/"
-  title: Accueil
-- url: "/ensemble"
-  title: L'Ensemble
-- url: "/calendrier"
-  title: Calendrier des Concerts
-- url: "/extraits"
-  title: Extraits
-- url: "/photos"
-  title: Photos
-- url: "/contact"
-  title: Contact
+--- {}
