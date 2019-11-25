@@ -800,7 +800,7 @@ PAGE STYLES
 HEADER STYLING
 ***************/
 .header {
-  background: linear-gradient( rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5) ), url('../img/header-background.jpg');
+  background: linear-gradient( rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5) ), url('/uploads/header-background.jpg');
   background-color: #660000;
   background-size: cover;
   background-position: center center;
