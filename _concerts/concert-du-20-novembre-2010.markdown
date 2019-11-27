@@ -1,15 +1,14 @@
 ---
-title: Concert du 20 novembre 2010
-date: 2010-11-20 00:00:00 +0100
+title: Concert du 22 janvier 2012
+date: 2012-01-22 00:00:00 +0100
 description: Avec la participation de la chanteuse soprano Laure Lalo
-adresse: Bibliothèque Saint-Eloi, Paris (11e)
+adresse: Association Les Amis de Marie-Jaell, Paris (10e)
 layout: concert
-published: false
 
 ---
 ### Lieu
 
-Bibliothèque Saint-Eloi, 23 rue du Colonel Rozanoff, 75012 Paris
+Association Les Amis de Marie-Jaell, 6 rue Philippe de Girard, 75010 Paris
 
 ### Concert partagé
 
@@ -17,12 +16,13 @@ Bibliothèque Saint-Eloi, 23 rue du Colonel Rozanoff, 75012 Paris
 
 ### Programme
 
-* Mozart : extrait des _Noces de Figaro_
-* Corelli : Concerto Grosso, opus 8 _Pour la Nuit de Noël_
-* Musique Klezmer : _Mazel Tov_
+* Musique Élisabéthaine :
+  * _Sheperd's holiday_
+  *  _Stingo_
+  * _Paul's steeple_
 * La Folia : Variations
-* Dowland : _Pavane Lachrimae_
-* Bach : Cantate 82, _Ich habe genug_
-* Chanson Israélienne : _Yerushalaim Shel Zahav_
-* Voyage à travers le XIXe siècle (Bizet, Schubert, Dvorak, Rossini)
-* Vivaldi : _Estro Armonico_, Concerto n°10 (RV 580)
+* Haendel : Oratorio _Jephtha_, air de Storgé
+* Gabrieli : Canzone
+* Bach : Concerto Brandebourgeois n°3, 1e mouvement
+* Bach : Cantate 21, _Seufzer Thränen_
+* Vivaldi : Concerto _L'Automne_
