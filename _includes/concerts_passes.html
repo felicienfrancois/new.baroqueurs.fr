@@ -4,9 +4,9 @@
     {% if post.date < site.time %}
     <li>
     	<span class="date">{{ post.date | date: "%d/%m/%Y" }}</span><br>
-    	<a href="{{ post.url }}">{{ post.title }}</a>
-	    <p>{{ post.adresse }}</p>
-	    <p class="description">{{ post.description }}</p>
+    	<a href="{{ post.url }}">{{ post.title }}</a><br>
+	    <span>{{ post.adresse }}</span><br>
+	    <span class="description">{{ post.description }}</span>
     </li>
     {% endif %}
   {% endfor %}
