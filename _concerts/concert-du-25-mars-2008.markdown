@@ -1,10 +1,9 @@
 ---
-title: Concert du 25 mars 2008
-date: 2008-03-25 00:00:00 +0100
+title: Concert du 6 avril 2008
+date: 2008-04-06 00:00:00 +0200
 description: ''
 adresse: Restaurant Le Mazurka, Paris (18e)
 layout: concert
-published: false
 
 ---
 ### Lieu
