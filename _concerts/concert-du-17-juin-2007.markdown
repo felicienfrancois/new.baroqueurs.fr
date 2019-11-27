@@ -1,20 +1,20 @@
 ---
-title: Concert du 17 juin 2007
-date: 2007-06-17 00:00:00 +0200
+title: Concert du 25 mars 2008
+date: 2008-03-25 00:00:00 +0100
 description: ''
-adresse: Église Notre-Dame de Clignancourt, Paris (18e)
+adresse: Restaurant Le Mazurka, Paris (18e)
 layout: concert
 published: false
 
 ---
 ### Lieu
 
-Église Notre-Dame de Clignancourt, 2 place Jules Joffrin, 75018 Paris
+Restaurant Le Mazurka, 3 rue André Del Sarte, 75018 Paris
 
 ### Programme
 
-* Vivaldi : _Estro Armonico_, Concerto RV 522
-* Vivaldi : _Estro Armonico_, Concerto RV 578
+* Frescobaldi : 3 Canzones à 4
+* Bach : Concerto Brandebourgeois n°6
 * Vivaldi : Concerto _La Notte_
-* Bach : _L'art de la Fugue_, Contrapunctus 1
-* Bach : _L'art de la Fugue_, Contrapunctus 9
+* Bach : Concerto Brandebourgeois n°3
+* Vivaldi : _Estro Armonico_, Concerto RV 578
