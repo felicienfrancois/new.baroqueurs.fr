@@ -1,21 +1,18 @@
 ---
-title: Concert du 22 novembre 2009
-date: 2009-11-22 00:00:00 +0100
-description: Organisé par l'association Culture Espérance Roquette
-adresse: Église Notre-Dame d'Espérance, Paris (11e)
+title: Concert du 23 août 2009
+date: 2009-08-23 00:00:00 +0200
+description: Organisé par l'association Les Amis du Prieuré de Saint-Hilaire-la-Croix
+adresse: Église du Prieuré, Saint-Hilaire-la-Croix (Puy-de-Dôme)
 layout: concert
-published: false
 
 ---
 ### Lieu
 
-Église Notre-Dame d'Espérance, 47 rue de la Roquette, 75011 Paris
+Église du Prieuré, 63440 Saint-Hilaire-la-Croix
 
 ### Organisateur
 
-> L'association [Culture Espérance Roquette](https://www.culture-nde.org "Culture Espérance Roquette")
->
-> Dans le cadre des "Petites Saisons de la Roquette"
+> L'association [Les Amis du Prieuré de Saint-Hilaire-la-Croix](https://amisprieure.wordpress.com/about/ "Les Amis du Prieuré de Saint-Hilaire-la-Croix")
 
 ### Programme
 
