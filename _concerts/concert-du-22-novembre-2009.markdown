@@ -18,9 +18,10 @@ layout: concert
 
 * Haendel : _Water Music_, extraits de la suite n°1
 * Corelli : Sonata da Camera n°12 opus 2
-* Masque de la Renaissance : _Der Satyrn Tanz_
-* Masque de la Renaissance : _Der Pilligrienen Tanz_
-* Masque de la Renaissance : _Des Rothschencken Tanz_
+* Masques de la Renaissance : 
+  * _Der Satyrn Tanz_
+  * _Der Pilligrienen Tanz_
+  * _Des Rothschencken Tanz_
 * Vivaldi : _Estro Armonico_, Concerto n°8 (RV 522)
 * Chanson Israélienne : _Yerushalaim Shel Zahav_
 * Vivaldi : _Estro Armonico_, Concerto n°10 (RV 580)
