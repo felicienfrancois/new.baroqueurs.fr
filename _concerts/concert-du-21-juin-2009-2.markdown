@@ -13,7 +13,7 @@ layout: concert
 ### Organisateur
 
 > L'association [Culture Espérance Roquette](https://www.culture-nde.org "Culture Espérance Roquette"){:target="_blank"}
-
+> 
 > Dans le cadre des "Petites Saisons de la Roquette"
 
 ### Programme
