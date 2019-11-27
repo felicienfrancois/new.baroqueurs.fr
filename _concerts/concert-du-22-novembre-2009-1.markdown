@@ -1,6 +1,6 @@
 ---
-title: Concert du 22 novembre 2009
-date: 2009-11-21T23:00:00.000+00:00
+title: Concert du 15 avril 2012
+date: 2012-04-15 00:00:00 +0200
 description: Organisé par l'association Culture Espérance Roquette
 adresse: Église Notre-Dame d'Espérance, Paris (11e)
 layout: concert
