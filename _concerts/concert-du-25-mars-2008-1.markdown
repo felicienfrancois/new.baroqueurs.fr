@@ -1,15 +1,14 @@
 ---
-title: Concert du 25 mars 2008
-date: 2008-03-25 00:00:00 +0100
+title: Concert du 30 mars 2008
+date: 2008-03-30 00:00:00 +0100
 description: ''
-adresse: Restaurant Le Mazurka, Paris (18e)
+adresse: Église Notre-Dame de Clignancourt, Paris (18e)
 layout: concert
-published: false
 
 ---
 ### Lieu
 
-Restaurant Le Mazurka, 3 rue André Del Sarte, 75018 Paris
+Église Notre-Dame de Clignancourt, 2 place Jules Joffrin, 75018 Paris
 
 ### Programme
 
