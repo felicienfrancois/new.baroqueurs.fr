@@ -1,15 +1,14 @@
 ---
-title: Concert du 16 février 2012
-date: 2012-02-16 00:00:00 +0100
+title: Concert du 14 avril 2012
+date: 2012-04-14 00:00:00 +0200
 description: ''
-adresse: Médiathèque, Saint-Mandé (Val-de-Marne)
+adresse: Médiathèque Marguerite Duras, Paris (20e)
 layout: concert
-published: false
 
 ---
 ### Lieu
 
-Médiathèque, 3 avenue de Liège, 94160 Saint-Mandé
+Médiathèque Marguerite Duras, 115 rue de Bagnolet, 75020 Paris
 
 ### Programme
 
