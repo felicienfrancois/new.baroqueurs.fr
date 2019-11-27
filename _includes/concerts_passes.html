@@ -1,0 +1,11 @@
+<ul class="posts noList">
+  {% for post in site.concerts %}
+    {% if post.date < site.time %}
+    <li>
+    	<span class="date">{{ post.date | date: "%d/%m/%Y" }}</span><br>
+    	<a href="{{ post.url }}">{{ post.title }}</a>
+    	<p class="description">{{ post.adresse }}</p>
+    </li>
+    {% endif %}
+  {% endfor %}
+</ul>
