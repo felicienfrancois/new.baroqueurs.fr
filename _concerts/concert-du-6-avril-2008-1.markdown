@@ -1,6 +1,6 @@
 ---
-title: Concert du 6 avril 2008
-date: 2008-04-06 00:00:00 +0200
+title: Concert du 15 juin 2010
+date: 2010-06-15 00:00:00 +0200
 description: ''
 adresse: Restaurant Le Mazurka, Paris (18e)
 layout: concert
