@@ -22,7 +22,7 @@ layout: concert
 * Masque de la Renaissance : _Der Pilligrienen Tanz_
 * Masque de la Renaissance : _Des Rothschencken Tanz_
 * Vivaldi : _Estro Armonico_, Concerto n°8 (RV 522)
-* Chant traditionnel : _Yerushalaim Shel Zahav_
+* Chanson Israélienne : _Yerushalaim Shel Zahav_
 * Vivaldi : _Estro Armonico_, Concerto n°10 (RV 580)
 * Mozart : extrait de _La Flûte Enchantée_
 * Peter Shott : _Aan de Amsterdamse Grachten_
