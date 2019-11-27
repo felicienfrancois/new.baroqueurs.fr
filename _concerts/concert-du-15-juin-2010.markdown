@@ -1,15 +1,14 @@
 ---
-title: Concert du 15 juin 2010
-date: 2010-06-15 00:00:00 +0200
+title: Concert du 20 juin 2010
+date: 2010-06-20 00:00:00 +0200
 description: ''
-adresse: Restaurant Le Mazurka, Paris (18e)
+adresse: Église Notre-Dame de Clignancourt, Paris (18e)
 layout: concert
-published: false
 
 ---
 ### Lieu
 
-Restaurant Le Mazurka, 3 rue André Del Sarte, 75018 Paris
+Église Notre-Dame de Clignancourt, 2 place Jules Joffrin, 75018 Paris
 
 ### Programme
 
