@@ -1,15 +1,14 @@
 ---
-title: Concert du 21 juin 2009
-date: 2009-06-21 00:00:00 +0200
+title: Concert du 20 juin 2009
+date: 2009-06-20 00:00:00 +0200
 description: ''
-adresse: Restaurant Le Mazurka, Paris (18e)
+adresse: Bibliothèque Saint-Eloi, Paris (12e)
 layout: concert
-published: false
 
 ---
 ### Lieu
 
-Restaurant Le Mazurka, 3 rue André Del Sarte, 75018 Paris
+Bibliothèque Saint-Eloi, 23 rue du Colonel Rozanoff, 75012 Paris
 
 ### Programme
 
