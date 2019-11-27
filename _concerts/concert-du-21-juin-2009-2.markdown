@@ -1,6 +1,6 @@
 ---
 title: Concert du 22 novembre 2009
-date: 2009-11-22 00:00:00 +0100
+date: 2009-11-21T23:00:00.000+00:00
 description: Organisé par l'association Culture Espérance Roquette
 adresse: Église Notre-Dame d'Espérance, Paris (11e)
 layout: concert
@@ -12,15 +12,14 @@ layout: concert
 
 ### Organisateur
 
-> L'association [Culture Espérance Roquette](https://www.culture-nde.org "Culture Espérance Roquette")
->
+> L'association [Culture Espérance Roquette](https://www.culture-nde.org "Culture Espérance Roquette"){:target="_blank"}
 > Dans le cadre des "Petites Saisons de la Roquette"
 
 ### Programme
 
 * Haendel : _Water Music_, extraits de la suite n°1
 * Corelli : Sonata da Camera n°12 opus 2
-* Masques de la Renaissance : 
+* Masques de la Renaissance :
   * _Der Satyrn Tanz_
   * _Der Pilligrienen Tanz_
   * _Des Rothschencken Tanz_
