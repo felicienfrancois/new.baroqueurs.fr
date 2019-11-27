@@ -1,11 +1,11 @@
 <ul class="posts noList">
-  {% assign next_concerts = site.concerts | reverse  %}
-  {% for post in next_concerts %}
+  {% for post in site.concerts %}
     {% if post.date >= site.time %}
     <li>
       <span class="date">{{ post.date | date: "%d/%m/%Y" }}</span><br>
       <a href="{{ post.url }}">{{ post.title }}</a>
-      <p class="description">{{ post.adresse }}</p>
+      <p>{{ post.adresse }}</p>
+      <p class="description">{{ post.description }}</p>
     </li>
     {% endif %}
   {% endfor %}
