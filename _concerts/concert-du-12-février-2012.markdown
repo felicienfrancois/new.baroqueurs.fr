@@ -1,25 +1,20 @@
 ---
-title: Concert du 12 février 2012
-date: 2012-02-12 00:00:00 +0100
-description: Avec la participation de la chanteuse soprano Laure Lalo
-adresse: Restaurant Le Mazurka, Paris (18e)
+title: Concert du 16 février 2012
+date: 2012-02-16 00:00:00 +0100
+description: ''
+adresse: Médiathèque, Saint-Mandé (Val-de-Marne)
 layout: concert
-published: false
 
 ---
 ### Lieu
 
-Restaurant Le Mazurka, 3 rue André Del Sarte, 75018 Paris
-
-### Concert partagé
-
-> Avec la participation de la chanteuse soprano Laure Lalo
+Médiathèque, 3 avenue de Liège, 94160 Saint-Mandé
 
 ### Programme
 
+* Musique Klezmer : _Mazel Tov_
 * La Folia : Variations
 * Chanson Israélienne : _Yerushalaim Shel Zahav_
-* Haendel : Oratorio _Jephtha_, air de Storgé
 * Bach : Concerto Brandebourgeois n°3, 1e mouvement
 * Gabrieli : Canzone
 * Musique Élisabéthaine :
@@ -27,5 +22,4 @@ Restaurant Le Mazurka, 3 rue André Del Sarte, 75018 Paris
   * _Stingo_
   * _Paul's steeple_
 * Musique Klezmer : Freylekhs
-* Bach : Cantate 21, _Seufzer Thränen_
 * Vivaldi : Concerto _L'Automne_
