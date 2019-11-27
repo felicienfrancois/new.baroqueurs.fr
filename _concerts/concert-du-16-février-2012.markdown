@@ -1,7 +1,7 @@
 ---
 title: Concert du 14 avril 2012
 date: 2012-04-14 00:00:00 +0200
-description: ''
+description: Avec la participation de la chanteuse soprano Laure Lalo
 adresse: Médiathèque Marguerite Duras, Paris (20e)
 layout: concert
 
@@ -10,11 +10,14 @@ layout: concert
 
 Médiathèque Marguerite Duras, 115 rue de Bagnolet, 75020 Paris
 
+### Concert partagé
+
+> Avec la participation de la chanteuse soprano Laure Lalo
+
 ### Programme
 
-* Musique Klezmer : _Mazel Tov_
 * La Folia : Variations
-* Chanson Israélienne : _Yerushalaim Shel Zahav_
+* Haendel : Oratorio _Jephtha_, air de Storgé
 * Bach : Concerto Brandebourgeois n°3, 1e mouvement
 * Gabrieli : Canzone
 * Musique Élisabéthaine :
@@ -22,4 +25,5 @@ Médiathèque Marguerite Duras, 115 rue de Bagnolet, 75020 Paris
   * _Stingo_
   * _Paul's steeple_
 * Musique Klezmer : Freylekhs
+* Bach : Cantate 21, _Seufzer Thränen_
 * Vivaldi : Concerto _L'Automne_
