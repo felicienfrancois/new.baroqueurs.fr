@@ -5,7 +5,8 @@
     	<span class="date">{{ post.date | date: "%d/%m/%Y" }}</span><br>
     	<a href="{{ post.url }}">{{ post.title }}</a><br>
 	    <span>{{ post.adresse }}</span><br>
-	    <span class="description">{{ post.description }}</span>
+	    <span class="description">{{ post.description }}</span><br>
+	    <a href="{{ post.url }}">En savoir plus >></a>
     </li>
     {% endif %}
   {% endfor %}
