@@ -14,7 +14,7 @@ published: false
 ### Programme
 
 * La Folia : Variations
-* 
+* Chanson Israélienne : _Yerushalaim Shel Zahav_
 * Bach : Concerto Brandebourgeois n°3, 1e mouvement
 * Mozart : _La Flûte Enchantée_, air de Papageno et Papagena
 * Gabrieli : Canzone
