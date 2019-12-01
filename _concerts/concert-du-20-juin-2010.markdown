@@ -1,6 +1,6 @@
 ---
 title: Concert du 20 novembre 2010
-date: 2010-11-20 00:00:00 +0100
+date: 2010-11-19T23:00:00.000+00:00
 description: Avec la participation de la chanteuse soprano Laure Lalo
 adresse: Bibliothèque Saint-Eloi, Paris (11e)
 layout: concert
@@ -25,3 +25,4 @@ Bibliothèque Saint-Eloi, 23 rue du Colonel Rozanoff, 75012 Paris
 * Chanson Israélienne : _Yerushalaim Shel Zahav_
 * Voyage à travers le XIXe siècle (Bizet, Schubert, Dvorak, Rossini)
 * Vivaldi : _Estro Armonico_, Concerto n°10 (RV 580)
+* Mozart : _La Flûte Enchantée_, air de Papageno et Papagena
