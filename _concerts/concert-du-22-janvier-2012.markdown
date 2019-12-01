@@ -1,6 +1,6 @@
 ---
 title: Concert du 12 février 2012
-date: 2012-02-12 00:00:00 +0100
+date: 2012-02-11T23:00:00.000+00:00
 description: Avec la participation de la chanteuse soprano Laure Lalo
 adresse: Restaurant Le Mazurka, Paris (18e)
 layout: concert
@@ -28,3 +28,4 @@ Restaurant Le Mazurka, 3 rue André Del Sarte, 75018 Paris
 * Musique Klezmer : Freylekhs
 * Bach : Cantate 21, _Seufzer Thränen_
 * Vivaldi : Concerto _L'Automne_
+* Mozart : _La Flûte Enchantée_, air de Papageno et Papagena
