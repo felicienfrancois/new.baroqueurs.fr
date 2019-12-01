@@ -15,7 +15,7 @@ layout: concert
 * Bach : Concerto Brandebourgeois n°3
 * Dowland :
   * Pavane _Lachrimae Gementes_
-  * _The Earle of Essex_ Gaillarde
+  * Gaillarde _The Earle of Essex_
 * Purcell : Fantaisie _Three parts on a ground_
 * Air de Carrousel
 * Telemann : Sonate en trio
