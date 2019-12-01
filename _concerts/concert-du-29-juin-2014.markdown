@@ -1,25 +1,24 @@
 ---
-title: Concert du 29 juin 2014
-date: 2014-06-29 00:00:00 +0200
+title: Concert du 3 juillet 2014
+date: 2014-07-03 00:00:00 +0200
 description: ''
-adresse: Église Notre-Dame de Clignancourt, Paris (18e)
+adresse: Restaurant Le Mazurka, Paris (18e)
 layout: concert
-published: false
 
 ---
 ### Lieu
 
-Église Notre-Dame de Clignancourt, 2 place Jules Joffrin, 75018 Paris
+Restaurant Le Mazurka, 3 rue André Del Sarte, 75018 Paris
 
 ### Programme
 
+* Rosenmüller : Sonata undecima a 5
 * Purcell : Chaconne _Three parts on a ground_
 * Dobrinescu : _Lekho neraneno_
-* Byrd : Fantazia a 6 n°5
-* Rosenmüller : Sonata undecima a 5
-* Telemann : Sonate en trio
 * Holborne : Pavane & Gaillarde
+* Telemann : Sonate en trio
 * Air de Carrousel
+* Byrd : Fantazia a 6 n°5
 * Dowland : Gaillarde _The King of Denmark_
 * Tchaïkovski : _Swing Lake_
 * Vivaldi : Concerto _L'Hiver_
