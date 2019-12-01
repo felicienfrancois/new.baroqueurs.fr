@@ -1,15 +1,14 @@
 ---
-title: Concert du 3 juin 2012
-date: 2012-06-03 00:00:00 +0200
+title: Concert du 21 juin 2012
+date: 2012-06-21 00:00:00 +0200
 description: ''
-adresse: Église Notre-Dame de Clignancourt, Paris (18e)
+adresse: Potager des Oiseaux, Paris (3e)
 layout: concert
-published: false
 
 ---
 ### Lieu
 
-Église Notre-Dame de Clignancourt, 2 place Jules Joffrin, 75018 Paris
+Potager des Oiseaux, 39 rue de Bretagne, 75003 Paris
 
 ### Programme
 
