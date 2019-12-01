@@ -2,14 +2,13 @@
 title: Concert du 3 juin 2012
 date: 2012-06-03 00:00:00 +0200
 description: ''
-adresse: Église Notre-Dame d'Espérance, Paris (11e)
+adresse: Église Notre-Dame de Clignancourt, Paris (18e)
 layout: concert
-published: false
 
 ---
 ### Lieu
 
-Église Notre-Dame d'Espérance, 47 rue de la Roquette, 75011 Paris
+Église Notre-Dame de Clignancourt, 2 place Jules Joffrin, 75018 Paris
 
 ### Programme
 
