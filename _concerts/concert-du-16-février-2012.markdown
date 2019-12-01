@@ -1,6 +1,6 @@
 ---
 title: Concert du 14 avril 2012
-date: 2012-04-14 00:00:00 +0200
+date: 2012-04-13T22:00:00.000+00:00
 description: Avec la participation de la chanteuse soprano Laure Lalo
 adresse: Médiathèque Marguerite Duras, Paris (20e)
 layout: concert
@@ -27,3 +27,4 @@ Médiathèque Marguerite Duras, 115 rue de Bagnolet, 75020 Paris
 * Musique Klezmer : Freylekhs
 * Bach : Cantate 21, _Seufzer Thränen_
 * Vivaldi : Concerto _L'Automne_
+* Mozart : _La Flûte Enchantée_, air de Papageno et Papagena

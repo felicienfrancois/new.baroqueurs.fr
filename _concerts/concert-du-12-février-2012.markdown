@@ -1,6 +1,6 @@
 ---
 title: Concert du 16 février 2012
-date: 2012-02-16 00:00:00 +0100
+date: 2012-02-15T23:00:00.000+00:00
 description: ''
 adresse: Médiathèque, Saint-Mandé (Val-de-Marne)
 layout: concert
@@ -23,3 +23,4 @@ Médiathèque, 3 avenue de Liège, 94160 Saint-Mandé
   * _Paul's steeple_
 * Musique Klezmer : Freylekhs
 * Vivaldi : Concerto _L'Automne_
+* Mozart : _La Flûte Enchantée_, air de Papageno et Papagena
