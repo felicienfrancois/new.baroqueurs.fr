@@ -1,6 +1,6 @@
 ---
 title: Concert du 15 juin 2010
-date: 2010-06-15 00:00:00 +0200
+date: 2010-06-14T22:00:00.000+00:00
 description: ''
 adresse: Restaurant Le Mazurka, Paris (18e)
 layout: concert
@@ -20,3 +20,4 @@ Restaurant Le Mazurka, 3 rue André Del Sarte, 75018 Paris
 * Chanson Israélienne : _Yerushalaim Shel Zahav_
 * Voyage à travers le XIXe siècle (Bizet, Schubert, Dvorak, Rossini)
 * Vivaldi : _Estro Armonico_, Concerto n°10 (RV 580)
+* Mozart : _La Flûte Enchantée_, air de Papageno et Papagena
