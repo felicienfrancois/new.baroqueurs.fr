@@ -1,27 +1,25 @@
 ---
-title: Concert du 16 novembre 2013
-date: 2013-11-16 00:00:00 +0100
+title: Concert du 29 juin 2014
+date: 2014-06-29 00:00:00 +0200
 description: ''
-adresse: Médiathèque, Châtillon (92320)
+adresse: Église Notre-Dame de Clignancourt, Paris (18e)
 layout: concert
-published: false
 
 ---
 ### Lieu
 
-Médiathèque, 2 rue Lasègue, 92320 Châtillon
+Église Notre-Dame de Clignancourt, 2 place Jules Joffrin, 75018 Paris
 
 ### Programme
 
-* Bach : Concerto Brandebourgeois n°3
-* Dowland :
-  * Pavane _Lachrimae Gementes_
-  * _The Earle of Essex_ Gaillarde
-* Purcell : Fantaisie _Three parts on a ground_
-* Air de Carrousel
-* Telemann : Sonate en trio
-* Tchaïkovski : _Swing Lake_
+* Purcell : Chaconne _Three parts on a ground_
+* Dobrinescu : _Lekho neraneno_
+* Byrd : Fantazia a 6 n°5
 * Rosenmüller : Sonata undecima a 5
-* Byrd : _The leaves be green_
-* Vivaldi : _Estro Armonico_, Concerto n°6
+* Telemann : Sonate en trio
+* Holborne : Pavane & Gaillarde
+* Air de Carrousel
+* Dowland : Gaillarde _The King of Denmark_
+* Tchaïkovski : _Swing Lake_
+* Vivaldi : Concerto _L'Hiver_
 * Bach : suite pour orchestre n°2, _Badinerie_
