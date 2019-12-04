@@ -1,10 +1,9 @@
 ---
-title: Concert du 13 juin 2015
-date: 2015-06-13 00:00:00 +0200
+title: Concert du 18 juin 2016
+date: 2016-06-18 00:00:00 +0200
 description: Concert partagé avec la chorale Didl Dam
 adresse: Bibliothèque Marguerite Audoux, Paris (3e)
 layout: concert
-published: false
 
 ---
 ### Lieu
