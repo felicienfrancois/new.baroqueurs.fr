@@ -1,15 +1,14 @@
 ---
-title: Concert du 18 juin 2016
-date: 2016-06-18 00:00:00 +0200
+title: Concert du 9 avril 2016
+date: 2016-04-09 00:00:00 +0200
 description: Concert partagé avec la chorale Didl Dam
-adresse: Bibliothèque Marguerite Audoux, Paris (3e)
+adresse: Centre Medem, Paris (10e)
 layout: concert
-published: false
 
 ---
 ### Lieu
 
-Bibliothèque Marguerite Audoux, 10 rue Portefoin, 75003 Paris
+Centre Medem Arbeter-Ring, 52 rue René Boulanger, 75010 Paris
 
 ### Concert partagé
 
