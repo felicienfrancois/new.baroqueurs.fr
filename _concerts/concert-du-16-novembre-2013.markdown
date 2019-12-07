@@ -14,7 +14,7 @@ layout: concert
 
 * Purcell : Chaconne _Three parts on a ground_
 * Dobrinescu : _Lekho neraneno_
-* Byrd : Fantazia a 6 n°5
+* Byrd : Fantazia a 6 n°3
 * Rosenmüller : Sonata undecima a 5
 * Telemann : Sonate en trio
 * Holborne : Pavane & Gaillarde
