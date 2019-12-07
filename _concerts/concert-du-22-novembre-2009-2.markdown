@@ -18,16 +18,20 @@ published: false
 >
 > Dans le cadre d'une "Heure Musicale du Dimanche"
 
+### Concert partagé
+
+> Avec la participation de la chanteuse soprano Laure Lalo
+
 ### Programme
 
 * Boismortier : Concerto n°2
-* Byrd : Fantazia a 6 n°3
+* Vivaldi : "Gloria", _Qui sedes ad dexteram patris_
 * Rokyta : _Balkanology_
 * Telemann : Sonate en trio
-* Dobrinescu : _Lekho neraneno_
+* Pergolese : "Stabat Mater", _Quae moerebat et dolebat_
 * Musique Élisabéthaine :
   * _Sheperd's holiday_
   * _Stingo_
   * _Paul's steeple_
-* Vivaldi : Concerto _L'Hiver_
-* Bach : suite pour orchestre n°2, _Badinerie_
+* Vivaldi : 
+* Bach : "Magnificat", _Et exultavit spiritus meus_
