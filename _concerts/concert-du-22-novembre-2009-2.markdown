@@ -1,21 +1,22 @@
 ---
-title: Concert du 22 novembre 2009
-date: 2009-11-21T23:00:00.000+00:00
-description: Organisé par l'association Culture Espérance Roquette
-adresse: Église Notre-Dame d'Espérance, Paris (11e)
+title: Concert du 29 novembre 2015
+date: 2015-11-29 00:00:00 +0100
+description: Organisé par l'AARESC (association pour l'animation et le rayonnement
+  de l'église Saint-Christophe)
+adresse: Église Saint-Christophe, Cergy-Village (95)
 layout: concert
 published: false
 
 ---
 ### Lieu
 
-Église Notre-Dame d'Espérance, 47 rue de la Roquette, 75011 Paris
+Église Saint-Christophe, , 95 Cergy-Village
 
 ### Organisateur
 
-> L'association [Culture Espérance Roquette](https://www.culture-nde.org "Culture Espérance Roquette"){:target="_blank"}
-> 
-> Dans le cadre des "Petites Saisons de la Roquette"
+> L'AARESC (association pour l'animation et le rayonnement de l'église Saint-Christophe)
+>
+> Dans le cadre d'une "Heure Musicale du Dimanche"
 
 ### Programme
 
