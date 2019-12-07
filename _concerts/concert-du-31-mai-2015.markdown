@@ -4,7 +4,6 @@ date: 2016-06-17 00:00:00 +0200
 description: ''
 adresse: Église Notre-Dame des Foyers, Paris (19e)
 layout: concert
-published: false
 
 ---
 ### Lieu
@@ -23,7 +22,7 @@ published: false
 * Rokyta : _Balkanology_
 * Musique Élisabéthaine : _Paul's steeple_
 * Dowland : _Can she excuse_
-* Hanedel : 
+* Haendel : \[Jephtha\] air de Storgé
 * Telemann : Concerto en mi mineur
 * Bach : \[Magnificat\] _Et exultavit spiritus meus_
 * Air de cirque
