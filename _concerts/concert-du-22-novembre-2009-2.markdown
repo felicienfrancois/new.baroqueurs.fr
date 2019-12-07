@@ -20,14 +20,14 @@ published: false
 
 ### Programme
 
-* Haendel : _Water Music_, extraits de la suite n°1
-* Corelli : Sonata da Camera n°12 opus 2
-* Masques de la Renaissance :
-  * _Der Satyrn Tanz_
-  * _Der Pilligrienen Tanz_
-  * _Des Rothschencken Tanz_
-* Vivaldi : _Estro Armonico_, Concerto n°8 (RV 522)
-* Chanson Israélienne : _Yerushalaim Shel Zahav_
-* Vivaldi : _Estro Armonico_, Concerto n°10 (RV 580)
-* Mozart : extrait de _La Flûte Enchantée_
-* Peter Shott : _Aan de Amsterdamse Grachten_
+* Boismortier : Concerto n°2
+* Byrd : Fantazia a 6 n°3
+* Rokyta : _Balkanology_
+* Telemann : Sonate en trio
+* Dobrinescu : _Lekho neraneno_
+* Musique Élisabéthaine :
+  * _Sheperd's holiday_
+  * _Stingo_
+  * _Paul's steeple_
+* Vivaldi : Concerto _L'Hiver_
+* Bach : suite pour orchestre n°2, _Badinerie_
