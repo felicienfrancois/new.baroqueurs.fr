@@ -1,15 +1,14 @@
 ---
-title: Concert du 1e mai 2015
-date: 2015-05-01 00:00:00 +0200
+title: Concert du 31 mai 2015
+date: 2015-05-31 00:00:00 +0200
 description: ''
-adresse: Église Saint-Nicolas, Toulouse (31)
+adresse: Église Notre-Dame des Foyers, Paris (19e)
 layout: concert
-published: false
 
 ---
 ### Lieu
 
-Église Saint-Nicolas, 36 grande rue Saint-Nicolas, 31300 Toulouse
+Église Notre-Dame des Foyers, 18-20 rue de Tanger, 75019 Paris
 
 ### Programme
 
