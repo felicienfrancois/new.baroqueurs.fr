@@ -5,7 +5,6 @@ description: Organisé par l'AARESC (association pour l'animation et le rayonnem
   de l'église Saint-Christophe)
 adresse: Église Saint-Christophe, Cergy-Village (95)
 layout: concert
-published: false
 
 ---
 ### Lieu
@@ -25,13 +24,13 @@ published: false
 ### Programme
 
 * Boismortier : Concerto n°2
-* Vivaldi : "Gloria", _Qui sedes ad dexteram patris_
+* Vivaldi : \[Gloria\] _Qui sedes ad dexteram patris_
 * Rokyta : _Balkanology_
 * Telemann : Sonate en trio
-* Pergolese : "Stabat Mater", _Quae moerebat et dolebat_
+* Pergolese : \[Stabat Mater\] _Quae moerebat et dolebat_
 * Musique Élisabéthaine :
   * _Sheperd's holiday_
   * _Stingo_
   * _Paul's steeple_
-* Vivaldi : 
-* Bach : "Magnificat", _Et exultavit spiritus meus_
+* Vivaldi : _Estro Armonico_, Concerto n°8 (RV 522)
+* Bach : \[Magnificat\] _Et exultavit spiritus meus_
