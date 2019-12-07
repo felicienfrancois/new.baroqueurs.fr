@@ -1,26 +1,23 @@
 ---
-title: Concert du 29 juin 2014
-date: 2014-06-29 00:00:00 +0200
+title: Concert du 1e mai 2015
+date: 2015-05-01 00:00:00 +0200
 description: ''
-adresse: Église Notre-Dame de Clignancourt, Paris (18e)
+adresse: Église Saint-Nicolas, Toulouse (31)
 layout: concert
 published: false
 
 ---
 ### Lieu
 
-Église Notre-Dame de Clignancourt, 2 place Jules Joffrin, 75018 Paris
+Église Saint-Nicolas, 36 grande rue Saint-Nicolas, 31300 Toulouse
 
 ### Programme
 
-* Purcell : Chaconne _Three parts on a ground_
-* Dobrinescu : _Lekho neraneno_
-* Byrd : Fantazia a 6 n°5
-* Rosenmüller : Sonata undecima a 5
+* Boismortier : Concerto n°2
+* Byrd : Fantazia a 6 n°3
+* Rokyta : _Balkanology_
 * Telemann : Sonate en trio
-* Holborne : Pavane & Gaillarde
-* Air de Carrousel
-* Dowland : Gaillarde _The King of Denmark_
-* Tchaïkovski : _Swing Lake_
+* Dobrinescu : _Lekho neraneno_
+* 
 * Vivaldi : Concerto _L'Hiver_
 * Bach : suite pour orchestre n°2, _Badinerie_
