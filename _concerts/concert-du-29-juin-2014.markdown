@@ -18,7 +18,7 @@ Restaurant Le Mazurka, 3 rue André Del Sarte, 75018 Paris
 * Holborne : Pavane & Gaillarde
 * Telemann : Sonate en trio
 * Air de Carrousel
-* Byrd : Fantazia a 6 n°5
+* Byrd : Fantazia a 6 n°3
 * Dowland : Gaillarde _The King of Denmark_
 * Tchaïkovski : _Swing Lake_
 * Vivaldi : Concerto _L'Hiver_
