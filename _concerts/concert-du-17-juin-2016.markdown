@@ -17,12 +17,17 @@ Chapelle Saint-Jean, 67 rue Daguerre, 75014 Paris
 
 ### Programme
 
-* Feidman : _Klezmer Freilach_
+* Vivaldi : \[Gloria\] _Qui sedes ad dexteram patris_
 * Telemann : Sonate en trio
 * Pergolese : \[Stabat Mater\] _Quae moerebat et dolebat_
 * Rokyta : _Balkanology_
-* Musique Élisabéthaine : _Paul's steeple_
+* Musique Élisabéthaine :
+  * _Sheperd's holiday_
+  * _Stingo_
+  * _Paul's steeple_
 * Dowland : _Can she excuse_
+* Feidman : _Klezmer Freilach_
+* Bach : 
 * Haendel : \[Jephtha\] air de Storgé
 * Telemann : Concerto en mi mineur
 * Bach : \[Magnificat\] _Et exultavit spiritus meus_
