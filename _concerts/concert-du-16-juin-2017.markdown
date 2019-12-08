@@ -1,15 +1,18 @@
 ---
 title: Concert du 30 juillet 2017
 date: 2017-07-30 00:00:00 +0200
-description: ''
-adresse: Église Notre-Dame des Foyers, Paris (19e)
+description: Organisé par l'association Les Amis du Prieuré de Saint-Hilaire-la-Croix
+adresse: Église du Prieuré, Saint-Hilaire-la-Croix (63)
 layout: concert
-published: false
 
 ---
 ### Lieu
 
-Église Notre-Dame des Foyers, 18-20 rue de Tanger, 75019 Paris
+Église du Prieuré, 63440 Saint-Hilaire-la-Croix
+
+### Organisateur
+
+> L'association [Les Amis du Prieuré de Saint-Hilaire-la-Croix](https://amisprieure.wordpress.com/about/ "Les Amis du Prieuré de Saint-Hilaire-la-Croix")
 
 ### Programme
 
