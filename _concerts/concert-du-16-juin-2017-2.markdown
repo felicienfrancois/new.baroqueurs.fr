@@ -1,6 +1,6 @@
 ---
-title: Concert du 16 juin 2017
-date: 2017-06-16 00:00:00 +0200
+title: Concert du 17 juin 2018
+date: 2018-06-17 00:00:00 +0200
 description: ''
 adresse: Église Notre-Dame des Foyers, Paris (19e)
 layout: concert
