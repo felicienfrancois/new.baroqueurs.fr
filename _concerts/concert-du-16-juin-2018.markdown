@@ -2,14 +2,13 @@
 title: Concert du 3 juin 2018
 date: 2018-06-03 00:00:00 +0200
 description: Concert partagé avec la chanteuse soprano Laure Lalo
-adresse: ''
+adresse: Restaurant Le Mazurka, Paris (18e)
 layout: concert
-published: false
 
 ---
 ### Lieu
 
-, 75018 Paris
+Restaurant Le Mazurka, 3 rue André Del Sarte, 75018 Paris
 
 ### Concert partagé
 
