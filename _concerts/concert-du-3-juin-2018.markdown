@@ -1,15 +1,18 @@
 ---
-title: Concert du 3 juin 2018
-date: 2018-06-03 00:00:00 +0200
-description: Concert partagé avec la chanteuse soprano Laure Lalo
-adresse: Restaurant Le Mazurka, Paris (18e)
+title: Concert du 19 mai 2018
+date: 2018-05-19 00:00:00 +0200
+description: Dans le cadre de la Nuit des Musées
+adresse: Musée départemental Maurice Denis, Saint-Germain-en-Laye (78)
 layout: concert
-published: false
 
 ---
 ### Lieu
 
-Restaurant Le Mazurka, 3 rue André Del Sarte, 75018 Paris
+Musée départemental Maurice Denis, 2 bis rue Maurice Denis, 78100 Saint-Germain-en-Laye
+
+### Organisateur
+
+> Dans le cadre de la Nuit des Musées
 
 ### Concert partagé
 
@@ -17,15 +20,15 @@ Restaurant Le Mazurka, 3 rue André Del Sarte, 75018 Paris
 
 ### Programme
 
-* Musique Irlandaise : Airs traditionnels
-* Dowland : _Can she excuse_
-* _Ciaconna_ : Variations
 * Mozart : Quatuor pour Hautbois
-* Dobrinescu : _Lekho neraneno_
+* _Ciaconna_ : Variations
+* Debussy : _Clair de Lune_
+* Vivaldi : Concerto _L'Automne_, 3e mouvement
+* Telemann : Concerto en mi mineur, 3e mouvement
 * Bach : \[Magnificat\] _Et exultavit spiritus meus_
 * Bach : Partita n°2, Chaconne
-* Musique Klezmer : Freylekhs
 * Bach : \[Passion selon Saint-Matthieu\] _Ich will dir mein Herze schenken_
-* Musique Klezmer : Freylekh & Khosidl
-* Telemann : Concerto en mi mineur
+* Musique Irlandaise : Airs traditionnels
+* Dowland : _Can she excuse_
+* Telemann : Concerto en mi mineur, 4e mouvement
 * Mozart : _La Flûte Enchantée_, air de Papageno et Papagena
