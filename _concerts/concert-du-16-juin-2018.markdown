@@ -1,15 +1,15 @@
 ---
-title: Concert du 16 juin 2018
-date: 2018-06-16 00:00:00 +0200
+title: Concert du 3 juin 2018
+date: 2018-06-03 00:00:00 +0200
 description: Concert partagé avec la chanteuse soprano Laure Lalo
-adresse: Librairie Le Rideau Rouge, Paris (18e)
+adresse: ''
 layout: concert
 published: false
 
 ---
 ### Lieu
 
-Librairie Le Rideau Rouge, 42 rue de Torcy, 75018 Paris
+, 75018 Paris
 
 ### Concert partagé
 
