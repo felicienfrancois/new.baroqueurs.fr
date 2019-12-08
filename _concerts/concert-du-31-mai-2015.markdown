@@ -1,7 +1,7 @@
 ---
 title: Concert du 17 juin 2016
 date: 2016-06-17 00:00:00 +0200
-description: ''
+description: Concert partagé avec la chanteuse soprano Laure Lalo
 adresse: Église Notre-Dame des Foyers, Paris (19e)
 layout: concert
 
