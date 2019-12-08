@@ -1,15 +1,14 @@
 ---
-title: Concert du 16 juin 2017
-date: 2017-06-16 00:00:00 +0200
+title: Concert du 22 octobre 2017
+date: 2017-10-22 00:00:00 +0200
 description: ''
-adresse: Église Notre-Dame des Foyers, Paris (19e)
+adresse: Librairie internationale V.O., Lille (59)
 layout: concert
-published: false
 
 ---
 ### Lieu
 
-Église Notre-Dame des Foyers, 18-20 rue de Tanger, 75019 Paris
+Librairie internationale V.O., 53 rue du Molinel, 59000 Lille
 
 ### Programme
 
