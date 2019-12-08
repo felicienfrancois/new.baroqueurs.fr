@@ -1,15 +1,14 @@
 ---
-title: Concert du 17 juin 2018
-date: 2018-06-17 00:00:00 +0200
+title: Concert du 16 juin 2018
+date: 2018-06-16 00:00:00 +0200
 description: Concert partagé avec la chanteuse soprano Laure Lalo
-adresse: Église Notre-Dame des Foyers, Paris (19e)
+adresse: Librairie Le Rideau Rouge, Paris (18e)
 layout: concert
-published: false
 
 ---
 ### Lieu
 
-Église Notre-Dame des Foyers, 18-20 rue de Tanger, 75019 Paris
+Librairie Le Rideau Rouge, 42 rue de Torcy, 75018 Paris
 
 ### Concert partagé
 
