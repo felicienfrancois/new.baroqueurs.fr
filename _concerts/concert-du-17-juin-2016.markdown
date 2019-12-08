@@ -1,7 +1,7 @@
 ---
 title: Concert du 22 mai 2016
 date: 2016-05-22 00:00:00 +0200
-description: ''
+description: Concert partagé avec la chanteuse soprano Laure Lalo
 adresse: Chapelle Saint-Jean, Paris (14e)
 layout: concert
 
