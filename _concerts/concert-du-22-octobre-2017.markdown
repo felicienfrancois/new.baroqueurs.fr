@@ -1,15 +1,14 @@
 ---
-title: Concert du 22 octobre 2017
-date: 2017-10-22 00:00:00 +0200
+title: Concert du 15 octobre 2017
+date: 2017-10-15 00:00:00 +0200
 description: ''
-adresse: Librairie internationale V.O., Lille (59)
+adresse: Église Saint-Germain l'Auxerrois, Châtenay-Malabry (92)
 layout: concert
-published: false
 
 ---
 ### Lieu
 
-Librairie internationale V.O., 53 rue du Molinel, 59000 Lille
+Église Saint-Germain l'Auxerrois, 2 rue du Lavoir, 92290 Châtenay-Malabry
 
 ### Programme
 
