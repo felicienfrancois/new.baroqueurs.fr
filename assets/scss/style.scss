@@ -27,6 +27,19 @@
 
 // If IE support is needed you can add them here or create another stylesheet for specific IE fixes
 
+.posts li {
+	clear: both;
+}
+
+.musiciens li {
+	float: left;
+	margin-bottom: 0;
+}
+
+.musiciens li:before {
+	content: none;
+}
+
 .floating-image {
 	clear: left;
 	float: left;
