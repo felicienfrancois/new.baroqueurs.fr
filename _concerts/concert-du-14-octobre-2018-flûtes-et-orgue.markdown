@@ -4,7 +4,6 @@ date: 2019-05-12 00:00:00 +0200
 description: Concert organisé par l'association Les Amis de l'Orgue d'Ivry-sur-Seine
 adresse: Église Saint-Pierre Saint-Paul, Ivry-sur-Seine (94)
 layout: concert
-published: false
 
 ---
 ### Lieu
@@ -25,6 +24,6 @@ published: false
 * Mozart : Quatuor pour Hautbois, 1e mouvement
 * Bach : Partita n°2, Chaconne
 * Musique Klezmer : Freylekhs
-* Vivaldi : 
+* Vivaldi : _Estro Armonico_, Concerto n°10 
 * Musique Klezmer : Freylekh & Khosidl
 * Mozart : _La flûte Enchantée_, Ouverture
