@@ -17,7 +17,10 @@ published: false
 * Mozart : Quatuor pour Hautbois, 1e mouvement
 * _Ciaconna_ : Variations
 * Musique Klezmer : Freylekhs
-* 
+* Musique Élisabéthaine :
+  * _Stingo_
+  * _Sheperd's holiday_
+  * _Paul's steeple_
 * Bach : Partita n°2, Chaconne
 * Vivaldi :
 * Musique Klezmer : Freylekh & Khosidl
