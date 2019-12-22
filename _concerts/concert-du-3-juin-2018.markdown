@@ -1,6 +1,6 @@
 ---
 title: Concert du 19 mai 2018
-date: 2018-05-19 00:00:00 +0200
+date: 2018-05-18T22:00:00.000+00:00
 description: Dans le cadre de la Nuit des Musées
 adresse: Musée départemental Maurice Denis, Saint-Germain-en-Laye (78)
 layout: concert
@@ -20,7 +20,7 @@ Musée départemental Maurice Denis, 2 bis rue Maurice Denis, 78100 Saint-Germai
 
 ### Programme
 
-* Mozart : Quatuor pour Hautbois
+* Mozart : Quatuor pour Hautbois, 1e mouvement
 * _Ciaconna_ : Variations
 * Debussy : _Clair de Lune_
 * Vivaldi : Concerto _L'Automne_, 3e mouvement
