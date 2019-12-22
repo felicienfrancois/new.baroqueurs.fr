@@ -1,5 +1,5 @@
 ---
-title: Concert du 14 avril 2012
+title: 'Concert du 14 avril 2012 : flûtes et chant'
 date: 2012-04-13T22:00:00.000+00:00
 description: Concert partagé avec la chanteuse soprano Laure Lalo
 adresse: Médiathèque Marguerite Duras, Paris (20e)

@@ -1,5 +1,5 @@
 ---
-title: Concert du 13 juin 2015
+title: 'Concert du 13 juin 2015 : flûtes et chorale'
 date: 2015-06-12T22:00:00.000+00:00
 description: Concert partagé avec la chorale Didl Dam
 adresse: Bibliothèque Marguerite Audoux, Paris (3e)
