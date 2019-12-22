@@ -1,5 +1,5 @@
 ---
-title: Concert du 7 octobre 2018
+title: 'Concert du 7 octobre 2018 : flûtes et orgue'
 date: 2018-10-07 00:00:00 +0200
 description: Concert organisé par l'association Les Amis des Orgues de Saint-Thibaut
 adresse: Église Saint-Thibaut, Le Pecq (78)
