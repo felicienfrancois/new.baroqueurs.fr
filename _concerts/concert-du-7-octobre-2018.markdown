@@ -1,27 +1,28 @@
 ---
-title: Concert du 7 octobre 2018
-date: 2018-10-07 00:00:00 +0200
-description: Concert organisé par l'association Les Amis des Orgues de Saint-Thibaut
-adresse: Église Saint-Thibaut, Le Pecq (78)
+title: Concert du 14 octobre 2018
+date: 2018-10-14 00:00:00 +0200
+description: Concert organisé par l'association Les Amis de l'Orgue d'Épinay-sur-Orge
+adresse: Église Saint-Leu Saint-Gilles, Épinay-sur-Orge (91)
 layout: concert
 published: false
 
 ---
 ### Lieu
 
-Église Saint-Thibaut, 58 avenue du Président Kennedy, 78230 Le Pecq
+Église Saint-Leu Saint-Gilles, rue de la Fontaine Bridel, 91360 Épinay-sur-Orge
 
 ### Organisateur
 
-> L'association Les Amis des Orgues de Saint-Thibaut
+> L'association Les Amis de l'Orgue d'Épinay-sur-Orge
 
 ### Concert partagé
 
-> Avec l'organiste Baptiste-Florian Marle-Ouvrard
+> Avec l'organiste Lucile Dollat
 
 ### Programme
 
 * Musique Irlandaise : Airs traditionnels
+* Mozart :
 * Bach : Partita n°2, Chaconne
-* Telemann : Concerto en mi mineur
 * Musique Klezmer : Freylekh & Khosidl
+* Telemann : Concerto en mi mineur
