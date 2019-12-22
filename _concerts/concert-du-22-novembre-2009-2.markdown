@@ -1,6 +1,6 @@
 ---
-title: Concert du 29 novembre 2015
-date: 2015-11-29 00:00:00 +0100
+title: 'Concert du 29 novembre 2015 : flûtes et chant'
+date: 2015-11-28T23:00:00.000+00:00
 description: Organisé par l'AARESC (association pour l'animation et le rayonnement
   de l'église Saint-Christophe)
 adresse: Église Saint-Christophe, Cergy-Village (95)
@@ -19,7 +19,7 @@ layout: concert
 
 ### Concert partagé
 
-> Avec la participation de la chanteuse soprano Laure Lalo
+> Avec la chanteuse soprano Laure Lalo
 
 ### Programme
 
