@@ -1,6 +1,6 @@
 ---
-title: Concert du 16 juin 2018
-date: 2018-06-16 00:00:00 +0200
+title: 'Concert du 16 juin 2018 : flûtes et chant'
+date: 2018-06-15T22:00:00.000+00:00
 description: Concert partagé avec la chanteuse soprano Laure Lalo
 adresse: Librairie Le Rideau Rouge, Paris (18e)
 layout: concert
