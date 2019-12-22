@@ -1,5 +1,5 @@
 ---
-title: Concert du 15 avril 2012
+title: 'Concert du 15 avril 2012 : flûtes et chant'
 date: 2012-04-14T22:00:00.000+00:00
 description: Organisé par l'association Culture Espérance Roquette, dans le cadre
   des "Petites Saisons de la Roquette"
