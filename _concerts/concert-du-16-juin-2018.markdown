@@ -1,6 +1,6 @@
 ---
-title: Concert du 3 juin 2018
-date: 2018-06-03 00:00:00 +0200
+title: 'Concert du 3 juin 2018 : flûtes et chant'
+date: 2018-06-02T22:00:00.000+00:00
 description: Concert partagé avec la chanteuse soprano Laure Lalo
 adresse: Restaurant Le Mazurka, Paris (18e)
 layout: concert
@@ -12,7 +12,7 @@ Restaurant Le Mazurka, 3 rue André Del Sarte, 75018 Paris
 
 ### Concert partagé
 
-> Avec la participation de la chanteuse soprano Laure Lalo
+> Avec la chanteuse soprano Laure Lalo
 
 ### Programme
 
