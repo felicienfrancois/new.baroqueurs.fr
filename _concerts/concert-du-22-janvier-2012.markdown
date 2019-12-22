@@ -1,5 +1,5 @@
 ---
-title: Concert du 12 février 2012
+title: 'Concert du 12 février 2012 : flûtes et chant'
 date: 2012-02-11T23:00:00.000+00:00
 description: Concert partagé avec la chanteuse soprano Laure Lalo
 adresse: Restaurant Le Mazurka, Paris (18e)
