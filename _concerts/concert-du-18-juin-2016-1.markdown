@@ -1,6 +1,6 @@
 ---
-title: Concert du 17 juin 2017
-date: 2017-06-17 00:00:00 +0200
+title: 'Concert du 17 juin 2017 : flûtes et chorale'
+date: 2017-06-16T22:00:00.000+00:00
 description: Concert partagé avec la chorale Didl Dam
 adresse: Bibliothèque Marguerite Audoux, Paris (3e)
 layout: concert
