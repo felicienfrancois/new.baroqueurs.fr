@@ -1,5 +1,5 @@
 ---
-title: Concert du 10 février 2013
+title: 'Concert du 10 février 2013 : flûtes et chant'
 date: 2013-02-09T23:00:00.000+00:00
 description: Concert partagé avec la chanteuse soprano Laure Lalo
 adresse: Église Notre-Dame de Clignancourt, Paris (18e)
