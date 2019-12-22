@@ -24,6 +24,6 @@ layout: concert
 * Mozart : Quatuor pour Hautbois, 1e mouvement
 * Bach : Partita n°2, Chaconne
 * Musique Klezmer : Freylekhs
-* Vivaldi : _Estro Armonico_, Concerto n°10 
+* Vivaldi : _Estro Armonico_, Concerto n°10 (RV 580)
 * Musique Klezmer : Freylekh & Khosidl
 * Mozart : _La flûte Enchantée_, Ouverture
