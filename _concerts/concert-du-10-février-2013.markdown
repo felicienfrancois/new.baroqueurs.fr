@@ -1,7 +1,7 @@
 ---
-title: Concert du 30 mars 2013
-date: 2013-03-30 00:00:00 +0100
-description: Avec la participation de la chanteuse soprano Laure Lalo
+title: 'Concert du 30 mars 2013 : flûtes et chant'
+date: 2013-03-29T23:00:00.000+00:00
+description: Concert partagé avec la chanteuse soprano Laure Lalo
 adresse: La Bellevilloise, Paris (20e)
 layout: concert
 
@@ -12,7 +12,7 @@ La Bellevilloise, 19-21 rue Boyer, 75020 Paris
 
 ### Concert partagé
 
-> Avec la participation de la chanteuse soprano Laure Lalo
+> Avec la chanteuse soprano Laure Lalo
 
 ### Programme
 
