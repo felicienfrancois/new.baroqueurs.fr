@@ -1,30 +1,30 @@
 ---
-title: 'Concert du 12 mai 2019 : flûtes et orgue'
-date: 2019-05-12 00:00:00 +0200
-description: Concert organisé par l'association Les Amis de l'Orgue d'Ivry-sur-Seine
-adresse: Église Saint-Pierre Saint-Paul, Ivry-sur-Seine (94)
+title: 'Concert du 6 octobre 2019 : flûtes et chant'
+date: 2019-10-06 00:00:00 +0200
+description: Concert partagé avec la chanteuse soprano Angéline Le Ray
+adresse: Église Saint-Valéry, Tœufles (80)
 layout: concert
-published: false
 
 ---
 ### Lieu
 
-Église Saint-Pierre Saint-Paul, 12 place de l'Église, 94200 Ivry-sur-Seine
+Église Saint-Valéry, 80870 Tœufles
 
 ### Organisateur
 
-> L'association Les Amis de l'Orgue d'Ivry-sur-Seine
+> Le syndicat mixte Baie de Somme 3 Vallées
+>
+> Dans le cadre des "Concerts du Parc"
 
 ### Concert partagé
 
-> Avec l'organiste Jean-Pierre Charles
+> Avec la chanteuse soprano Angéline Le Ray
 
 ### Programme
 
 * Musique Irlandaise : Airs traditionnels
-* Mozart : Quatuor pour Hautbois, 1e mouvement
-* Bach : Partita n°2, Chaconne
-* Musique Klezmer : Freylekhs
-* Vivaldi : _Estro Armonico_, Concerto n°10 
+* Rokyta : _Balkanology_
 * Musique Klezmer : Freylekh & Khosidl
+* Bach : Partita n°2, Chaconne
+* Telemann : Concerto en mi mineur
 * Mozart : _La flûte Enchantée_, Ouverture
