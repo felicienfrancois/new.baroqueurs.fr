@@ -27,3 +27,4 @@ layout: concert
 * Vivaldi : _Estro Armonico_, Concerto n°10 (RV 580)
 * Musique Klezmer : Freylekh & Khosidl
 * Mozart : _La flûte Enchantée_, Ouverture
+* Bach : Suite pour orchestre n°2, _Badinerie_
