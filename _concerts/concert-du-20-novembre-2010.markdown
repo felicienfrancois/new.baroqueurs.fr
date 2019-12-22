@@ -1,7 +1,7 @@
 ---
-title: Concert du 22 janvier 2012
+title: 'Concert du 22 janvier 2012 : flûtes et chant'
 date: 2012-01-21T23:00:00.000+00:00
-description: Avec la participation de la chanteuse soprano Laure Lalo
+description: Concert partégé avec la chanteuse soprano Laure Lalo
 adresse: Association Les Amis de Marie-Jaell, Paris (10e)
 layout: concert
 
@@ -12,7 +12,7 @@ Association Les Amis de Marie-Jaell, 6 rue Philippe de Girard, 75010 Paris
 
 ### Concert partagé
 
-> Avec la participation de la chanteuse soprano Laure Lalo
+> Avec la chanteuse soprano Laure Lalo
 
 ### Programme
 
