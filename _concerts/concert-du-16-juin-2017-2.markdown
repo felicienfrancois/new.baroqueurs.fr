@@ -1,6 +1,6 @@
 ---
-title: Concert du 17 juin 2018
-date: 2018-06-17 00:00:00 +0200
+title: 'Concert du 17 juin 2018 : flûtes et chant'
+date: 2018-06-16T22:00:00.000+00:00
 description: Concert partagé avec la chanteuse soprano Laure Lalo
 adresse: Église Notre-Dame des Foyers, Paris (19e)
 layout: concert
@@ -12,7 +12,7 @@ layout: concert
 
 ### Concert partagé
 
-> Avec la participation de la chanteuse soprano Laure Lalo
+> Avec la chanteuse soprano Laure Lalo
 
 ### Programme
 

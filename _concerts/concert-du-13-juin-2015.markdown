@@ -1,6 +1,6 @@
 ---
-title: Concert du 18 juin 2016
-date: 2016-06-18 00:00:00 +0200
+title: 'Concert du 18 juin 2016 : flûtes et chorale'
+date: 2016-06-17T22:00:00.000+00:00
 description: Concert partagé avec la chorale Didl Dam
 adresse: Bibliothèque Marguerite Audoux, Paris (3e)
 layout: concert
