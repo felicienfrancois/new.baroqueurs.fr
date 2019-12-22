@@ -4,7 +4,6 @@ date: 2018-10-14 00:00:00 +0200
 description: Concert organisé par l'association Les Amis de l'Orgue d'Épinay-sur-Orge
 adresse: Église Saint-Leu Saint-Gilles, Épinay-sur-Orge (91)
 layout: concert
-published: false
 
 ---
 ### Lieu
@@ -22,7 +21,7 @@ published: false
 ### Programme
 
 * Musique Irlandaise : Airs traditionnels
-* Mozart :
+* Mozart : Quatuor pour Hautbois, 1e mouvement
 * Bach : Partita n°2, Chaconne
 * Musique Klezmer : Freylekh & Khosidl
 * Telemann : Concerto en mi mineur
