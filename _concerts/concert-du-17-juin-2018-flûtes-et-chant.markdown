@@ -22,6 +22,6 @@ published: false
   * _Sheperd's holiday_
   * _Paul's steeple_
 * Bach : Partita n°2, Chaconne
-* Vivaldi :
+* Vivaldi : _Estro Armonico_, Concerto n°10 (RV 580)
 * Musique Klezmer : Freylekh & Khosidl
 * Mozart : _La Flûte Enchantée_, Ouverture
