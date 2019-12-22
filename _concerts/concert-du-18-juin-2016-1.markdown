@@ -12,4 +12,4 @@ Bibliothèque Marguerite Audoux, 10 rue Portefoin, 75003 Paris
 
 ### Concert partagé
 
-> Avec la participation de la chorale [Didl Dam](https://www.centre-medem.org/ateliers/didl-dam/ "Didl Dam")
+> Avec la chorale [Didl Dam](https://www.centre-medem.org/ateliers/didl-dam/ "Didl Dam")
