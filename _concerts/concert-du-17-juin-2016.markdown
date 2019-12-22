@@ -1,6 +1,6 @@
 ---
-title: Concert du 22 mai 2016
-date: 2016-05-22 00:00:00 +0200
+title: 'Concert du 22 mai 2016 : flûtes et chant'
+date: 2016-05-21T22:00:00.000+00:00
 description: Concert partagé avec la chanteuse soprano Laure Lalo
 adresse: Chapelle Saint-Jean, Paris (14e)
 layout: concert
@@ -12,7 +12,7 @@ Chapelle Saint-Jean, 67 rue Daguerre, 75014 Paris
 
 ### Concert partagé
 
-> Avec la participation de la chanteuse soprano Laure Lalo
+> Avec la chanteuse soprano Laure Lalo
 
 ### Programme
 
