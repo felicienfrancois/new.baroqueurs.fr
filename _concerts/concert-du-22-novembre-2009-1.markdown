@@ -1,7 +1,8 @@
 ---
 title: Concert du 15 avril 2012
 date: 2012-04-14T22:00:00.000+00:00
-description: Organisé par l'association Culture Espérance Roquette
+description: Organisé par l'association Culture Espérance Roquette, dans le cadre
+  des "Petites Saisons de la Roquette"
 adresse: Église Notre-Dame d'Espérance, Paris (11e)
 layout: concert
 
@@ -18,12 +19,12 @@ layout: concert
 
 ### Concert partagé
 
-> Avec la participation de la chanteuse soprano Laure Lalo
+> Avec la chanteuse soprano Laure Lalo
 
 ### Programme
 
 * La Folia : Variations
-* Haendel : Oratorio _Jephtha_, air de Storgé
+* Haendel : \[Jephtha\] air de Storgé
 * Bach : Concerto Brandebourgeois n°3, 1e mouvement
 * Musique Klezmer : _Mazel Tov_
 * Gabrieli : Canzone
@@ -34,4 +35,4 @@ layout: concert
 * Musique Klezmer : Freylekhs
 * Bach : Cantate 21, _Seufzer Thränen_
 * Vivaldi : Concerto _L'Automne_
-* Mozart : _La Flûte Enchantée_, air de Papageno et Papagena
+* Mozart : \[La Flûte Enchantée\] air de Papageno et Papagena
