@@ -1,7 +1,7 @@
 ---
 title: 'Concert du 20 novembre 2010 : flûtes et chant'
 date: 2010-11-19T23:00:00.000+00:00
-description: Avec la participation de la chanteuse soprano Laure Lalo
+description: Concert partagé avec la chanteuse soprano Laure Lalo
 adresse: Bibliothèque Saint-Eloi, Paris (11e)
 layout: concert
 
@@ -12,7 +12,7 @@ Bibliothèque Saint-Eloi, 23 rue du Colonel Rozanoff, 75012 Paris
 
 ### Concert partagé
 
-> Avec la participation de la chanteuse soprano Laure Lalo
+> Avec la chanteuse soprano Laure Lalo
 
 ### Programme
 
