@@ -1,5 +1,5 @@
 ---
-title: Concert du 19 mai 2018
+title: 'Concert du 19 mai 2018 : flûtes et chant'
 date: 2018-05-18T22:00:00.000+00:00
 description: Dans le cadre de la Nuit des Musées
 adresse: Musée départemental Maurice Denis, Saint-Germain-en-Laye (78)
