@@ -4,7 +4,6 @@ date: 2019-06-22 00:00:00 +0200
 description: ''
 adresse: Église Notre-Dame des Foyers, Paris (19e)
 layout: concert
-published: false
 
 ---
 ### Lieu
@@ -25,3 +24,4 @@ published: false
 * Vivaldi : _Estro Armonico_, Concerto n°10 (RV 580)
 * Musique Klezmer : Freylekh & Khosidl
 * Mozart : _La Flûte Enchantée_, Ouverture
+* Bach : Suite pour orchestre n°2, _Badinerie_
