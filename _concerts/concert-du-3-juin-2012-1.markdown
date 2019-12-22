@@ -1,7 +1,7 @@
 ---
 title: Concert du 10 février 2013
-date: 2013-02-10 00:00:00 +0100
-description: Avec la participation de la chanteuse soprano Laure Lalo
+date: 2013-02-09T23:00:00.000+00:00
+description: Concert partagé avec la chanteuse soprano Laure Lalo
 adresse: Église Notre-Dame de Clignancourt, Paris (18e)
 layout: concert
 
@@ -12,7 +12,7 @@ layout: concert
 
 ### Concert partagé
 
-> Avec la participation de la chanteuse soprano Laure Lalo
+> Avec la chanteuse soprano Laure Lalo
 
 ### Programme
 
@@ -21,7 +21,7 @@ layout: concert
   * Pavane _Lachrimae_
   * Gaillarde _Can she excuse_
 * Purcell : Fantaisie _Three parts on a ground_
-* Haendel : Oratorio _Jephtha_, air de Storgé
+* Haendel : \[Jephtha\] air de Storgé
 * Telemann : _Quatuor Parisien_, Concerto primo
 * Byrd : _The leaves be green_
 * Bach : Cantate 21, _Seufzer Thränen_
