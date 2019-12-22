@@ -1,5 +1,5 @@
 ---
-title: Concert du 14 décembre 2019
+title: 'Concert du 14 décembre 2019 : flûtes et chorale'
 date: 2019-12-14 00:00:00 +0100
 description: Concert partagé avec la chorale Didl Dam
 adresse: Centre Medem, Paris (10e)
